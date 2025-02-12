@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" 
+    style="display:block; margin:auto; width:180px; height:auto;" 
+    loop 
+  />
+</div>
 
-<!--
-**miuponn/miuponn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!;" />
+  </a>
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;" />
+  </a>
+</h1>
