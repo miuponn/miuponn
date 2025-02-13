@@ -7,8 +7,8 @@
 </div>
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=ようこそいらっしゃいました!" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=ようこそいらっしゃいました!" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!" />
     <img src="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=ようこそいらっしゃいました!" alt="Welcome Message" />
   </picture>
 </h1>
