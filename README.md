@@ -5,15 +5,18 @@
     loop 
   />
 </div>
-
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!;" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Darumadrop+One&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=6000&lines=ようこそいらっしゃいました!" alt="Welcome Message">
+  </picture>
 </h1>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;" alt="Hi, I'm Kelly">
+  </picture>
 </h1>
