@@ -17,6 +17,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=FFFFFF&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,%20I'm%20Kelly;">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,%20I'm%20Kelly;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,+I'm+Kelly;" alt="Hi, I'm Kelly">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi,%20I'm%20Kelly;" alt="Hi, I'm Kelly">
   </picture>
 </h1>
