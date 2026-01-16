@@ -23,7 +23,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miuponn&layout=donut&hide_title=true&hide_progress=true&bg_color=00000000&text_color=888888"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miuponn&layout=donut&hide_title=true&hide_progress=true&theme=transparent"
     alt="languages"
   />
 </p>
