@@ -20,10 +20,3 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Nunito&size=30&color=000000&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi%20I'm%20Kelly;" alt="Hi, I'm Kelly">
   </picture>
 </h1>
-
-<h1 align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miuponn&layout=donut&theme=dracula"
-    alt="Top languages"
-  />
-</h1>
